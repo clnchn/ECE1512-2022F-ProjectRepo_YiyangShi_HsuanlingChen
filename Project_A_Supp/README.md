@@ -7,7 +7,7 @@ Here is the explanation of what is included in the Supplementary file:
 
     2.Task1.ipynb is a Python notebook showing how the teacher and student models are trained in the conventional KD framework. You will use this file to implement conventional KD for the MNIST dataset.
     
-    3.Task2.ipynb is a Python notebook on transfer learning.
+    3.Task2.ipynb is a Python notebook on transfer learning using pre-trained models.
 
     4. Project_A_FAQs.pdf is a list of Frequently Asked Questions that try to throw light on (almost) all of your questions and concerns that you may have during Project A.
 
