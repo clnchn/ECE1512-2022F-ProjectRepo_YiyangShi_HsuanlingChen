@@ -1,5 +1,5 @@
 # ECE1512-2022F-ProjectRepo_YiyangShi_HsuanlingChen
-This github repository contains the Project A for ECE1512 Digital Image Processing by Yiyang Shi and HsuanLing Chen. 
+This github repository contains the Project A for ECE1512 Digital Image Processing by Yiyang Shi and HsuanLing Chen. The project deliverables are located in Project_A_Supp folder. 
 
 ## About the project
 In this project, we will be focusing on the setting of knowledge distillation as a model compression technique and to explore the practicality of transfer knowledge from a larger model to a smaller one in real-world settings. There are two parts of the project, 
